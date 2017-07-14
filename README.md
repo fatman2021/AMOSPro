@@ -1,4 +1,4 @@
-AMOS BASIC is a dialect of the BASIC programming language implemented on the Amiga computer. AMOS BASIC was published by Europress Software and originally written by François Lionet with Constantin Sotiropoulos.
+AMOS BASIC is a dialect of the BASIC programming language implemented on the Amiga computer. AMOS BASIC was published by Europress Software and originally written by FranÃ§ois Lionet with Constantin Sotiropoulos.
 
 AMOS is a descendant of STOS BASIC for the Atari ST. AMOS BASIC was first produced in 1990.
 
@@ -10,7 +10,7 @@ AMOS could also include inline Assembly Language.
 
 To simplify animation of sprites, AMOS included the AMOS Animation Language (AMAL), a compiled sprite scripting language which runs independently of the main AMOS BASIC program. It was also possible to control screen and "rainbow" effects using AMAL scripts. AMAL scripts in effect created CopperLists, small routines executed by the Amiga's Agnus chip.
 
-After the original version of AMOS, Europress released a compiler (AMOS Compiler), and two other versions of the language: Easy AMOS, a simpler version for beginners, and AMOS Professional, a more advanced version with added features, such as a better IDE, ARexx support, a new UI API and new flow control constructs. Neither of these new versions was significantly more popular than the original AMOS.[citation needed]
+After the original version of AMOS, Europress released a compiler (AMOS Compiler), and two other versions of the language: Easy AMOS, a simpler version for beginners, and AMOS Professional, a more advanced version with added features, such as a better IDE, ARexx support, a new UI API and new flow control constructs. Neither of these new versions was significantly more popular than the original AMOS.
 
 AMOS was mostly used to make multimedia software, video games (platformers and graphical adventures) and educational software.
 
